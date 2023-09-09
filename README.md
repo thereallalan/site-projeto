@@ -1,2 +1,2 @@
-# site-projeto
- Site do Curso em Vídeo
+# projeto-site
+ Projeto de um site criado durante o curso de Git e GitHub
